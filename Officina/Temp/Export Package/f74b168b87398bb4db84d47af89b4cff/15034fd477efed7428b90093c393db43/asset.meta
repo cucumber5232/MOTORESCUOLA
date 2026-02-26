@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 15034fd477efed7428b90093c393db43
+timeCreated: 1518717013
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 121021
+  packageName: Workbench With Tools
+  packageVersion: 1.0
+  assetPath: Assets/Workbench_With_Tools/Materials/Axe_JackPlane_CageLamp_LightBulb.mat
+  uploadId: 252656

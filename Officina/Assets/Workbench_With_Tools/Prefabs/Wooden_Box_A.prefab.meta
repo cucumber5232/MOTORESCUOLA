@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2f350edda5a668b40a5b4484248b0dd9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 121021
+  packageName: Workbench With Tools
+  packageVersion: 1.0
+  assetPath: Assets/Workbench_With_Tools/Prefabs/Wooden_Box_A.prefab
+  uploadId: 252656

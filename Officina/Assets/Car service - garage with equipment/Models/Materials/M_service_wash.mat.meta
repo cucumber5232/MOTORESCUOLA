@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ac73b42e6f039664cb0df6578d9436f3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 216319
+  packageName: Car service - garage with equipment
+  packageVersion: 1.0
+  assetPath: Assets/Car service - garage with equipment/Models/Materials/M_service_wash.mat
+  uploadId: 488579

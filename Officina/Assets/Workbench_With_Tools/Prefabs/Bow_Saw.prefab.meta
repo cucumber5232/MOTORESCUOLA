@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c0a5a4c230149544989c334f3ea178eb
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 121021
+  packageName: Workbench With Tools
+  packageVersion: 1.0
+  assetPath: Assets/Workbench_With_Tools/Prefabs/Bow_Saw.prefab
+  uploadId: 252656

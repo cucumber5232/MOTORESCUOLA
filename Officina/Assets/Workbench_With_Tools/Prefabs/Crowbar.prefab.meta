@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a084ac6fe8f4a5748898168881304dc0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 121021
+  packageName: Workbench With Tools
+  packageVersion: 1.0
+  assetPath: Assets/Workbench_With_Tools/Prefabs/Crowbar.prefab
+  uploadId: 252656

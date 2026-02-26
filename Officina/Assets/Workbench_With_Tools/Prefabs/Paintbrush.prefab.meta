@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 707ced4b6c6cd11459953ebd01fb76ff
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 121021
+  packageName: Workbench With Tools
+  packageVersion: 1.0
+  assetPath: Assets/Workbench_With_Tools/Prefabs/Paintbrush.prefab
+  uploadId: 252656

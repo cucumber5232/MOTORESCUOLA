@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 50edcff5137ec584080c9e5bfba66a1a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 121021
+  packageName: Workbench With Tools
+  packageVersion: 1.0
+  assetPath: Assets/Workbench_With_Tools/Prefabs/Spirit_Level.prefab
+  uploadId: 252656

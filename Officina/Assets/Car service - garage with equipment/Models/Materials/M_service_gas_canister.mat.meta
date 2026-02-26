@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e78c384e667ebdc45a1457f145e28727
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 216319
+  packageName: Car service - garage with equipment
+  packageVersion: 1.0
+  assetPath: Assets/Car service - garage with equipment/Models/Materials/M_service_gas_canister.mat
+  uploadId: 488579

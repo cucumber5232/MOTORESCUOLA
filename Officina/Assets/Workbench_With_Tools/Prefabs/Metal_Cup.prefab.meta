@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 01a6567d26555af4788d3171c48465b4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 121021
+  packageName: Workbench With Tools
+  packageVersion: 1.0
+  assetPath: Assets/Workbench_With_Tools/Prefabs/Metal_Cup.prefab
+  uploadId: 252656

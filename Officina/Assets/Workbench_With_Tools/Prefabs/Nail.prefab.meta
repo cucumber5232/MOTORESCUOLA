@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ea021b3fb3e493848a18f53a1dce64f1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 121021
+  packageName: Workbench With Tools
+  packageVersion: 1.0
+  assetPath: Assets/Workbench_With_Tools/Prefabs/Nail.prefab
+  uploadId: 252656

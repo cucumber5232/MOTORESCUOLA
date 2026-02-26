@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 168556c97ff5fd54fb614690ab6abdf8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 121021
+  packageName: Workbench With Tools
+  packageVersion: 1.0
+  assetPath: Assets/Workbench_With_Tools/Prefabs/Paint_Can.prefab
+  uploadId: 252656

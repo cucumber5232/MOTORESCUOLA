@@ -1,0 +1,181 @@
+Hello there, beautiful person, who bought my "art"! Thank You for the purchase!
+I hope there will be no problems loading and managing this "Home Office Desk" asset pack.
+If there still is something wrong, please, contact me directly.
+
+My email: Ieva.lickiene@gmail.com
+
+Have a nice experience! Eat well, sleep well and be nice to Your Mom! ;D 
+
+Best Regards,
+Ieva
+
+-----------------------------------------------------------------------------------------------------------------------
+
+The whole info about the model is bellow.
+
+- Workbench With Tools -
+
+- This Asset Pack contains in total 33 meshes:
+ 
+- Axe
+- Board
+- Bow Saw
+- Cage Lamp
+- Canister
+- Chisel
+- Crowbar
+- Duct Tape
+- Funnel
+- Hammer
+- Hand Drill
+- Hand Saw
+- Jack-Plane
+- Light Bulb
+- Measuring Tape
+- Metal Cup
+- Old Cabinet
+- Old Stool
+- OpenEnd Wrech
+- Paint Can
+- Paint Brush
+- Pliers
+- Putty Knife
+- 2 Screwdrivers
+- Spirit Level 
+- Triangular Ruler
+- Utility Knife
+- Vise
+- 2 Small Wooden Boxes
+- Workbench
+- Wrench
+
+-----------------------------------------------------------------------------------------------------------------
+- 38 Prefabs included.
+- 8 Materials.
+- LOD: up to 1 level.
+- Models are low poly.
+- Models are polygonal (quads and tris).
+- For easy use objects are named logically (using English language).
+- Models are UV mapped and unwrapped (mixed).
+- Assets are fully textured in Substance painter (PBR), 2048x2048 .png's. Pack contains textures for Standard MetalRough setup.
+- For easy use objects and textures share same names.
+- For optimization purposes some meshes share same texture maps. 
+- All assets have automatic generated Colliders.
+- File Formats: .FBX
+
+- Model Units - 
+.fbx exported in Meters.
+
+
+- Polygons, Tris and Vertices-
+
+- Axe_LOD0-                      315 polys;    618 tris;    313 vert.
+- Axe_LOD1-                      140 polys;    278 tris;    143 vert.
+
+- Board_LOD0 -                   131 polys;    227 tris;    156 vert.
+
+- Bow_Saw_LOD0 -                 420 polys;    696 tris;    374 vert. 
+- Bow_Saw_LOD1 -                 194 polys;    324 tris;    184 vert. 
+
+- Cage_Lamp
+      - Lamp_Cage_LOD0 -         296 polys;    560 tris;    301 vert. 
+      - Lamp_Cage_LOD1 -         168 polys;    320 tris;    173 vert. 
+      - Lamp_Glass_LOD0 -         54 polys;     96 tris;     58 vert. 
+      - Lamp_Glass_LOD1 -         15 polys;     24 tris;     18 vert.
+
+- Canister_LOD0 -                393 polys;    766 tris;    407 vert.
+- Canister_LOD1 -                183 polys;    353 tris;    194 vert. 
+ 
+- Chisel_LOD0 -                  112 polys;    192 tris;     98 vert. 
+- Chisel_LOD1 -                   40 polys;     64 tris;     34 vert. 
+
+- Crowbar_LOD0 -                  99 polys;    192 tris;     98 vert. 
+
+- Duct_Tape_LOD0 -                72 polys;    144 tris;     72 vert.
+- Duct_Tape_LOD1 -                36 polys;     72 tris;     36 vert.
+
+- Funnel_LOD0 -                  670 polys;  1 246 tris;    644 vert.
+- Funnel_LOD1 -                  321 polys;    589 tris;    310 vert.
+
+- Hammer_LOD0 -                  146 polys;    266 tris;    137 vert.
+- Hammer_LOD1 -                  106 polys;    186 tris;     97 vert.
+
+- Hand_Drill_LOD0 -              474 polys;    865 tris;    462 vert.
+- Hand_Drill_LOD1 -              168 polys;    289 tris;    168 vert.
+
+- Hand_Saw_LOD0 -                304 polys;    604 tris;    308 vert.
+- Hand_Saw_LOD1 -                160 polys;    316 tris;    164 vert.
+
+- Jack_Plane_LOD0 -              275 polys;    514 tris;    285 vert.
+- Jack_Plane_LOD1 -              213 polys;    406 tris;    231 vert.
+
+- Light_Bulb_LOD0 -              154 polys;    280 tris;    142 vert.
+- Light_Bulb_LOD1 -               64 polys;    112 tris;     58 vert.
+
+- Measuring_Tape_LOD0 -          142 polys;    239 tris;    150 vert.
+- Measuring_Tape_LOD1 -           88 polys;    152 tris;    96 vert.
+
+- Metal_Cup_LOD0 -               328 polys;    624 tris;    412 vert.
+- Metal_Cup_LOD1 -               136 polys;    256 tris;    186 vert.
+
+- Old_Cabinet_LOD0 -              87 polys;    168 tris;    104 vert. 
+     - Drawer_LOD0 -             167 polys;    334 tris;    180 vert.
+     - Drawer_LOD1 -              82 polys;    164 tris;     94 vert.
+
+- Old_Stool_LOD0 -               674 polys;  1 348 tris;    704 vert.
+- Old_Stool_LOD1 -               186 polys;    372 tris;    216 vert.
+
+- OpenEnd_Wrech_LOD0 -            78 polys;    156 tris;     80 vert.
+- OpenEnd_Wrech_LOD1 -            38 polys;     76 tris;     40 vert.
+
+- Paint_Can_LOD0 -               182 polys;    336 tris;    170 vert.
+- Paint_Can_LOD1 -                88 polys;    160 tris;     82 vert.
+
+- Paint_Brush_LOD0 -             128 polys;    248 tris;    145 vert.
+- Paint_Brush_LOD1 -              57 polys;    110 tris;     73 vert.
+
+- Pliers_LOD0 -                  379 polys;    688 tris;    358 vert.
+- Pliers_LOD1 -                  295 polys;    538 tris;    282 vert.
+
+- Putty_Knife_LOD0 -              64 polys;    112 tris;     62 vert.
+- Putty_Knife_LOD1 -              46 polys;     80 tris;     46 vert.
+
+- Screwdriver_A_LOD0 -           121 polys;    214 tris;    117 vert.
+- Screwdriver_A_LOD1 -            38 polys;     62 tris;     39 vert.
+
+- Screwdriver_B_LOD0 -            63 polys;    118 tris;     66 vert.
+- Screwdriver_B_LOD1 -            18 polys;     32 tris;     21 vert.
+
+- Spirit_Level_LOD0 -             94 polys;    192 tris;    138 vert. 
+- Spirit_Level_LOD1 -             67 polys;    138 tris;     84 vert. 
+
+- Triangular_Ruler_LOD0 -         19 polys;     36 tris;     18 vert.
+- Triangular_Ruler_LOD1 -         11 polys;     20 tris;     10 vert.
+
+- Utility_Knife_LOD0 -            99 polys;    182 tris;    114 vert.
+- Utility_Knife_LOD1 -            51 polys;     94 tris;     65 vert.
+
+- Vise_LOD0 -                    345 polys;    594 tris;    353 vert.
+- Vise_LOD1 -                    217 polys;    362 tris;    232 vert.
+
+- Wooden_Box_A_LOD0 -             30 polys;     60 tris;     40 vert.
+
+- Wooden_Box_B_LOD0 -             30 polys;     60 tris;     40 vert.
+
+- Workbench
+        - Nail_LOD0 -             28 polys;     36 tris;     23 vert.
+        - Workbench_bottom_LOD0 - 57 polys;    112 tris;     74 vert.
+        - Workbench_top_LOD0 -    40 polys;     80 tris;     48 vert.
+
+
+- Wrench_LOD0 -                  225 polys;    408 tris;    239 vert.
+- Wrench_LOD1 -                  122 polys;    220 tris;    135 vert.
+
+
+In total:                     10 688 polys; 19 874 tris; 11 050 vert.
+
+PLEASE NOTE: If you need additional File Formats (obj, 3ds) or higher/lower resolution maps, contact Me! I will gladly provide them to You!
+
+WARNING! Asset pack contains just assets listed above. Additional assets seen in some screenshots are not included and are used just for marketing purposes.
+
+Best of luck!

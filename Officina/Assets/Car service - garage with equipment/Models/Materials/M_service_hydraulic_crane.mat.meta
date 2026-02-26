@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b08e7b1c99a32dd4f9e5e82e9e571f3e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 216319
+  packageName: Car service - garage with equipment
+  packageVersion: 1.0
+  assetPath: Assets/Car service - garage with equipment/Models/Materials/M_service_hydraulic_crane.mat
+  uploadId: 488579

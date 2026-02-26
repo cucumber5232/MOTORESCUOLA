@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5c4456dc59afcb54ab11d20c68df2a39
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 121021
+  packageName: Workbench With Tools
+  packageVersion: 1.0
+  assetPath: Assets/Workbench_With_Tools/Prefabs/Cabinet_With_Tools.prefab
+  uploadId: 252656

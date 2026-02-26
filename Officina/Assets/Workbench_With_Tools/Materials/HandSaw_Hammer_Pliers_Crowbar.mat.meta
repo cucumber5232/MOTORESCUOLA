@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: bc332d7763d6107499c07333bff1b026
+timeCreated: 1519158732
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 121021
+  packageName: Workbench With Tools
+  packageVersion: 1.0
+  assetPath: Assets/Workbench_With_Tools/Materials/HandSaw_Hammer_Pliers_Crowbar.mat
+  uploadId: 252656

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0d714b9f807e5344981aab42342c70ff
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 121021
+  packageName: Workbench With Tools
+  packageVersion: 1.0
+  assetPath: Assets/Workbench_With_Tools/Prefabs/Screwdriver_B.prefab
+  uploadId: 252656

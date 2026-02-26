@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 454b33ee9577e7c41856f5af7440431d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 121021
+  packageName: Workbench With Tools
+  packageVersion: 1.0
+  assetPath: Assets/Workbench_With_Tools/Prefabs/Canister.prefab
+  uploadId: 252656

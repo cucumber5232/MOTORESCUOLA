@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 08a8a599ae5e21345ae4fc728331caee
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 216319
+  packageName: Car service - garage with equipment
+  packageVersion: 1.0
+  assetPath: Assets/Car service - garage with equipment/Models/Prefabs/service_garage_frame.prefab
+  uploadId: 488579

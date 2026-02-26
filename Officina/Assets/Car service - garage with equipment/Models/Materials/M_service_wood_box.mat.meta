@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bec0366145aa52d4ba46ae0263449422
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 216319
+  packageName: Car service - garage with equipment
+  packageVersion: 1.0
+  assetPath: Assets/Car service - garage with equipment/Models/Materials/M_service_wood_box.mat
+  uploadId: 488579
