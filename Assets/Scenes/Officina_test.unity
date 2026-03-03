@@ -2585,7 +2585,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4421955616477952, guid: c90af982c51d5ee42a9ff05729d76f2c, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.14700001
+      value: 0.072
       objectReference: {fileID: 0}
     - target: {fileID: 4421955616477952, guid: c90af982c51d5ee42a9ff05729d76f2c, type: 3}
       propertyPath: m_LocalPosition.z
@@ -2713,7 +2713,7 @@ Transform:
   m_GameObject: {fileID: 130954808}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
-  m_LocalPosition: {x: -0.663, y: 0.94, z: 9.735673}
+  m_LocalPosition: {x: -0.663, y: 0.94, z: 6.07}
   m_LocalScale: {x: 0.88952, y: 12.106367, z: 22.237999}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2765,7 +2765,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 54cbb72831f48f24f9fb4dfc644c6988, type: 2}
+  - {fileID: 2100000, guid: 88b4bca82d9923a4fb65c976524b9a2d, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -5701,7 +5701,7 @@ GameObject:
   - component: {fileID: 261185048}
   - component: {fileID: 261185046}
   m_Layer: 0
-  m_Name: valveCover
+  m_Name: Copertura  valvole
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5814,7 +5814,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4de7c2e0d95c74a889737436e927ea86, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::OggettoQuiz
-  IDOggetto: valveCover
+  IDOggetto: Copertura  valvole
 --- !u!54 &261185047
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -6064,8 +6064,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 36
-  m_fontSizeBase: 36
+  m_fontSize: 25
+  m_fontSizeBase: 25
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -7528,7 +7528,7 @@ GameObject:
   - component: {fileID: 317415401}
   - component: {fileID: 317415399}
   m_Layer: 0
-  m_Name: pipeWater
+  m_Name: 'tubo acqua '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7543,7 +7543,7 @@ Transform:
   m_GameObject: {fileID: 317415394}
   serializedVersion: 2
   m_LocalRotation: {x: -0.7071068, y: -0, z: -0, w: 0.7071067}
-  m_LocalPosition: {x: 1.385, y: 0.82850003, z: -1.29}
+  m_LocalPosition: {x: 1.446, y: 0.82850003, z: -1.29}
   m_LocalScale: {x: 50, y: 50, z: 50}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -7641,7 +7641,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4de7c2e0d95c74a889737436e927ea86, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::OggettoQuiz
-  IDOggetto: pipeWater
+  IDOggetto: 'tubo acqua '
 --- !u!54 &317415400
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -8960,7 +8960,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 54cbb72831f48f24f9fb4dfc644c6988, type: 2}
+  - {fileID: 2100000, guid: 88b4bca82d9923a4fb65c976524b9a2d, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -12693,7 +12693,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
+  - {fileID: 2100000, guid: 5b3824ef10184b54a8f3e3b6569e93d3, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -12734,9 +12734,9 @@ Transform:
   m_GameObject: {fileID: 479433216}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 10, y: 1, z: 10}
-  m_ConstrainProportionsScale: 0
+  m_LocalPosition: {x: 0, y: 0, z: 2.94}
+  m_LocalScale: {x: 2, y: 0.2, z: 2}
+  m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -13291,7 +13291,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "albero \nsmotore"
+  m_text: "albero \nmotore"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -17204,7 +17204,7 @@ GameObject:
   - component: {fileID: 653069398}
   - component: {fileID: 653069396}
   m_Layer: 0
-  m_Name: mainfoldIntake
+  m_Name: Collettore  di aspirazione
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -17317,7 +17317,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4de7c2e0d95c74a889737436e927ea86, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::OggettoQuiz
-  IDOggetto: mainfoldIntake
+  IDOggetto: Collettore  di aspirazione
 --- !u!54 &653069397
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -18346,7 +18346,7 @@ GameObject:
   - component: {fileID: 704535984}
   - component: {fileID: 704535982}
   m_Layer: 0
-  m_Name: engineBlock
+  m_Name: Blocco motore
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -18459,7 +18459,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4de7c2e0d95c74a889737436e927ea86, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::OggettoQuiz
-  IDOggetto: engineBlock
+  IDOggetto: Blocco motore
 --- !u!54 &704535983
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -18895,7 +18895,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 54cbb72831f48f24f9fb4dfc644c6988, type: 2}
+  - {fileID: 2100000, guid: 88b4bca82d9923a4fb65c976524b9a2d, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -19007,7 +19007,7 @@ GameObject:
   - component: {fileID: 738388934}
   - component: {fileID: 738388935}
   m_Layer: 0
-  m_Name: coverInterior
+  m_Name: copertura int.
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -19170,7 +19170,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4de7c2e0d95c74a889737436e927ea86, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::OggettoQuiz
-  IDOggetto: coverInterior
+  IDOggetto: copertura int.
 --- !u!1 &740141539
 GameObject:
   m_ObjectHideFlags: 0
@@ -24458,7 +24458,7 @@ GameObject:
   - component: {fileID: 962170578}
   - component: {fileID: 962170576}
   m_Layer: 0
-  m_Name: 11111
+  m_Name: valv. a  farfalla
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -24571,7 +24571,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4de7c2e0d95c74a889737436e927ea86, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::OggettoQuiz
-  IDOggetto: 11111
+  IDOggetto: valv. a  farfalla
 --- !u!54 &962170577
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -33942,7 +33942,7 @@ GameObject:
   - component: {fileID: 1414024420}
   - component: {fileID: 1414024418}
   m_Layer: 0
-  m_Name: ignitionCoil1cyl
+  m_Name: ' Bobina  di accensione'
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -34055,7 +34055,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4de7c2e0d95c74a889737436e927ea86, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::OggettoQuiz
-  IDOggetto: ignitionCoil1cyl
+  IDOggetto: ' Bobina  di accensione'
 --- !u!54 &1414024419
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -34503,7 +34503,7 @@ GameObject:
   - component: {fileID: 1427127506}
   - component: {fileID: 1427127504}
   m_Layer: 0
-  m_Name: camshaftIN
+  m_Name: albero  motore
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -34618,7 +34618,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4de7c2e0d95c74a889737436e927ea86, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::OggettoQuiz
-  IDOggetto: camshaftIN
+  IDOggetto: albero  motore
 --- !u!54 &1427127505
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -35167,7 +35167,7 @@ Transform:
   m_GameObject: {fileID: 1453781278}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 3.27, y: 1.078, z: 6.67}
+  m_LocalPosition: {x: 0.863, y: 0.792, z: 5.8829994}
   m_LocalScale: {x: 0.5, y: 0.5, z: 0.5}
   m_ConstrainProportionsScale: 1
   m_Children:
@@ -36730,7 +36730,7 @@ GameObject:
   - component: {fileID: 1515984974}
   - component: {fileID: 1515984972}
   m_Layer: 0
-  m_Name: head
+  m_Name: testa
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -36843,7 +36843,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4de7c2e0d95c74a889737436e927ea86, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::OggettoQuiz
-  IDOggetto: head
+  IDOggetto: testa
 --- !u!54 &1515984973
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -41506,7 +41506,7 @@ Transform:
   m_GameObject: {fileID: 1689868621}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1.11, y: 0.49, z: 5.78}
+  m_LocalPosition: {x: 1.11, y: 0.49, z: 2.8589997}
   m_LocalScale: {x: 0.5, y: 0.5, z: 0.5}
   m_ConstrainProportionsScale: 1
   m_Children:
@@ -46936,7 +46936,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 54cbb72831f48f24f9fb4dfc644c6988, type: 2}
+  - {fileID: 2100000, guid: 88b4bca82d9923a4fb65c976524b9a2d, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -47802,7 +47802,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: d316ee3a9f545fd45b8e8cb39b07d075, type: 3}
       propertyPath: m_LocalScale.x
-      value: 1.64
+      value: 1.25
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: d316ee3a9f545fd45b8e8cb39b07d075, type: 3}
       propertyPath: m_LocalScale.y
@@ -47810,7 +47810,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: d316ee3a9f545fd45b8e8cb39b07d075, type: 3}
       propertyPath: m_LocalScale.z
-      value: 1.64
+      value: 1.18
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: d316ee3a9f545fd45b8e8cb39b07d075, type: 3}
       propertyPath: m_LocalPosition.x
@@ -47822,7 +47822,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: d316ee3a9f545fd45b8e8cb39b07d075, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 7.0410004
+      value: 4.12
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: d316ee3a9f545fd45b8e8cb39b07d075, type: 3}
       propertyPath: m_LocalRotation.w
@@ -47854,7 +47854,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: d316ee3a9f545fd45b8e8cb39b07d075, type: 3}
       propertyPath: m_ConstrainProportionsScale
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -7511558181221131132, guid: d316ee3a9f545fd45b8e8cb39b07d075, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
@@ -49356,14 +49356,14 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2025907124}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.71, y: 1.086, z: 4.75}
+  m_LocalRotation: {x: -0, y: 0.54228663, z: -0, w: 0.8401936}
+  m_LocalPosition: {x: 3.4785278, y: 1.086, z: 2.6997476}
   m_LocalScale: {x: 0.5, y: 0.5, z: 0.5}
   m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 290849544}
   m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 65.679, z: 0}
 --- !u!1 &2026596493
 GameObject:
   m_ObjectHideFlags: 0
@@ -51052,7 +51052,7 @@ GameObject:
   - component: {fileID: 2086461144}
   - component: {fileID: 2086461145}
   m_Layer: 0
-  m_Name: mainfoldExhaust
+  m_Name: uscita scarico
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -51215,7 +51215,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4de7c2e0d95c74a889737436e927ea86, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::OggettoQuiz
-  IDOggetto: mainfoldExhaust
+  IDOggetto: 'uscita scarico '
 --- !u!1 &2095058860
 GameObject:
   m_ObjectHideFlags: 0
